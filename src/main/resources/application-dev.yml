@@ -6,7 +6,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: buzhidao
+    password: root
     url: jdbc:mysql://localhost/fastsbapiDB?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
